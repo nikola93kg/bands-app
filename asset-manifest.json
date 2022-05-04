@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bands-app/static/css/main.e311aa57.css",
+    "main.js": "/bands-app/static/js/main.52f5399c.js",
+    "index.html": "/bands-app/index.html",
+    "main.e311aa57.css.map": "/bands-app/static/css/main.e311aa57.css.map",
+    "main.52f5399c.js.map": "/bands-app/static/js/main.52f5399c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e311aa57.css",
+    "static/js/main.52f5399c.js"
+  ]
+}
